@@ -1,4 +1,30 @@
-## Hi there 👋
+# Hi, I'm Magomed 👋
+
+I'm an IT student from Russia, passionate about network engineering.  
+Currently studying for CCNA and building my way into the networking world.
+
+## 🔧 Skills & Tools
+- **Networking:** Cisco IOS, VLANs, STP, OSPF, TCP/IP (CCNA in progress)
+- **Tools:** Cisco Packet Tracer, GNS3
+- **Other:** Python, Docker, Linux basics
+
+## 📚 Currently Learning
+- CCNA 200-301 (Jeremy's IT Lab)
+- German language (B1 → B2)
+
+## 🚀 Projects
+- [Server Monitor](https://github.com/oalaov/server_monitor) — Python-based server monitoring app with Telegram alerts and web dashboard
+
+## ⚽ Outside of Tech
+When I'm not studying networks, I'm into sports.
+
+## 🌍 Languages
+- Russian — native
+- English — B2
+- German — B1 (actively improving)
+
+## 📬 Contact
+Feel free to reach out: magamedkurbanov000@gmail.com
 
 <!--
 **oalaov/oalaov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
