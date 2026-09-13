@@ -4,16 +4,18 @@ I'm an IT student from Russia, passionate about network engineering.
 Currently studying for CCNA and building my way into the networking world.
 
 ## 🔧 Skills & Tools
+- **Web Frontend Development**
 - **Networking:** Cisco IOS, VLANs, STP, OSPF, TCP/IP (CCNA in progress)
 - **Tools:** Cisco Packet Tracer, GNS3
 - **Other:** Python, Docker, Linux basics
-
+  
 ## 📚 Currently Learning
 - CCNA 200-301 (Jeremy's IT Lab)
 - German language (B1 → B2)
 
 ## 🚀 Projects
 - [Server Monitor](https://github.com/oalaov/server_monitor) — Python-based server monitoring app with Telegram alerts and web dashboard
+- [My web landinds](https://github.com/oalaov/landings) — My web pages landings
 
 ## ⚽ Outside of Tech
 When I'm not studying networks, I'm into sports.
