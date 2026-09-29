@@ -16,6 +16,7 @@ Currently studying for CCNA and building my way into the networking world.
 ## 🚀 Projects
 - [Server Monitor](https://github.com/oalaov/server_monitor) — Python-based server monitoring app with Telegram alerts and web dashboard
 - [My web landinds](https://github.com/oalaov/landings) — My web pages landings
+- [Electron-server-mon](https://github.com/oalaov/electron-server-mon) — Electron based for monitoring server via ssh connection
 
 ## ⚽ Outside of Tech
 When I'm not studying networks, I'm into sports.
