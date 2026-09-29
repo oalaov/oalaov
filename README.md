@@ -1,4 +1,4 @@
-# Hi, I'm Magomed 👋
+# Hi, I'm Magomed 
 
 I'm an IT student from Russia, passionate about network engineering.  
 Currently studying for CCNA and building my way into the networking world.
