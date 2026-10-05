@@ -27,7 +27,7 @@ When I'm not studying networks, I'm into sports.
 - German — B1 (actively improving)
 
 ## 📬 Contact
-Feel free to reach out: magamedkurbanov000@gmail.com
+Feel free to reach out: pirmagamedkurbanov@gmail.com
 
 <!--
 **oalaov/oalaov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
